@@ -1,13 +1,6 @@
 ## Hey! I'm Ricky Dupuits 👋
 
-HTML, CSS, C#, Python and MySQL Enthusiast.
-
-### Programming
-
-#### I do:
-
-- Fullstack Web Development
-- node.js Development
+HTML, CSS and JavaScript Enthusiast.
 
 #### I know:
 
@@ -18,6 +11,8 @@ HTML, CSS, C#, Python and MySQL Enthusiast.
 - HTML
 - CSS
 - MySQL
+- Flutter
+- Angular
 
 ### My Stats
 
